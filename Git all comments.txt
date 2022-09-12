@@ -1,0 +1,6 @@
+            GIT COMMENTS
+
+git init   (git intialize)
+git config -l
+git config --global user.name "Name"
+git config --gloubal user.email "emailid"
